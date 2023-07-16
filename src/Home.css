@@ -1,0 +1,33 @@
+.con-div{
+    height: 100%;
+    background: url("./icons/Back\ Ground.png")center;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+}
+.main-lookup{
+    margin-top: 20px;
+}
+.left-div{
+    margin-left: 50px;
+    height: 700px;
+}
+.para1{
+    font-size: 50px;
+}
+.para1 span{
+    font-size: 50px;
+    color: #0096FF;
+}
+.book-div{
+    display: flex;
+    align-items: center;
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.book-div span{
+    font-size: 32px;
+    color: #0096FF;
+}
